@@ -1,0 +1,4 @@
+transformers>=4.42.0
+torch>=2.2.0
+accelerate>=1.10.0
+# If torch fails to install via pip on your platform, follow: https://pytorch.org/get-started/locally/
