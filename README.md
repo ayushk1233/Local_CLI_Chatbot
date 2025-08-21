@@ -1,5 +1,8 @@
 # Local CLI Chatbot
 
+🎥 DEMO VIDEO LINK : https://www.loom.com/share/4ece70c9bdcf416fb55dc77fb0873f7b?sid=3d477e40-d3f8-4189-ab49-9b5aebb5ac79
+[PLEASE GO THROUGH IT TO UNDERSTAND THE WORKING]
+
 A robust, local command-line chatbot powered by Hugging Face's language models. This chatbot maintains conversation history, provides intelligent responses, and runs entirely on your local machine without requiring internet connectivity after initial model download.
 
 ## Features
